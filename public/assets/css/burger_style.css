@@ -1,0 +1,29 @@
+body {
+    background-color: #f4bf42;
+    background-image: url("../img/burger2.png");
+    background-size: 220px 200px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+
+li {
+  padding: 5px;
+  margin: 5px;
+  /*background: #faebd7;*/
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
